@@ -1,0 +1,6 @@
+PPPPPH	DiscreteStructures: 94
+HPPPPP	DiscreteStructures: 94
+PPPPHP	DiscreteStructures: 94
+PPPHPP	DiscreteStructures: 94
+PHPPPP	DiscreteStructures: 94
+PPHPPP	DiscreteStructures: 94

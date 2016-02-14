@@ -1,0 +1,6 @@
+PHHHHH	DiscreteStructures: 27
+HHHHHP	DiscreteStructures: 26
+HHHHPH	DiscreteStructures: 7
+HPHHHH	DiscreteStructures: 7
+HHHPHH	DiscreteStructures: 5
+HHPHHH	DiscreteStructures: 4

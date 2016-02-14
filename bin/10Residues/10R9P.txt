@@ -1,0 +1,10 @@
+PPPPHPPPPP	DiscreteStructures: 5539
+HPPPPPPPPP	DiscreteStructures: 5539
+PPPPPPPPHP	DiscreteStructures: 5539
+PPPHPPPPPP	DiscreteStructures: 5539
+PPPPPPHPPP	DiscreteStructures: 5539
+PHPPPPPPPP	DiscreteStructures: 5539
+PPPPPHPPPP	DiscreteStructures: 5539
+PPPPPPPPPH	DiscreteStructures: 5539
+PPPPPPPHPP	DiscreteStructures: 5539
+PPHPPPPPPP	DiscreteStructures: 5539

@@ -1,0 +1,6 @@
+PHPH	DiscreteStructures: 12
+HPHP	DiscreteStructures: 12
+PHHP	DiscreteStructures: 12
+HPPH	DiscreteStructures: 3
+PPHH	DiscreteStructures: 12
+HHPP	DiscreteStructures: 12
